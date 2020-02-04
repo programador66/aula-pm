@@ -1,7 +1,7 @@
 
 
 
- executa os seguintes comandos:
+ executar os seguintes comandos:
 
  composer install para instalar as dependências do projeto. 
  php artisan key:generate para gerar uma chave privada do Laravel
